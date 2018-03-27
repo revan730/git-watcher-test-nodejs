@@ -1,0 +1,22 @@
+{
+  "name": "git-watcher-test-nodejs",
+  "version": "1.0.0",
+  "description": "Test Node.js express app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/revan730/git-watcher-test-nodejs.git"
+  },
+  "author": "revan730",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/revan730/git-watcher-test-nodejs/issues"
+  },
+  "homepage": "https://github.com/revan730/git-watcher-test-nodejs#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
